@@ -1,0 +1,16 @@
+D:\xiaoxi\MSA2017\phaseTwo\MSAPhaseTwo\ScottXApp\ScottXApp\ScottXApp\bin\Debug\ScottXApp.dll
+D:\xiaoxi\MSA2017\phaseTwo\MSAPhaseTwo\ScottXApp\ScottXApp\ScottXApp\bin\Debug\ScottXApp.pdb
+D:\xiaoxi\MSA2017\phaseTwo\MSAPhaseTwo\ScottXApp\ScottXApp\ScottXApp\bin\Debug\Xamarin.Forms.Core.dll
+D:\xiaoxi\MSA2017\phaseTwo\MSAPhaseTwo\ScottXApp\ScottXApp\ScottXApp\bin\Debug\Xamarin.Forms.Platform.dll
+D:\xiaoxi\MSA2017\phaseTwo\MSAPhaseTwo\ScottXApp\ScottXApp\ScottXApp\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\xiaoxi\MSA2017\phaseTwo\MSAPhaseTwo\ScottXApp\ScottXApp\ScottXApp\bin\Debug\Xamarin.Forms.Core.pdb
+D:\xiaoxi\MSA2017\phaseTwo\MSAPhaseTwo\ScottXApp\ScottXApp\ScottXApp\bin\Debug\Xamarin.Forms.Core.xml
+D:\xiaoxi\MSA2017\phaseTwo\MSAPhaseTwo\ScottXApp\ScottXApp\ScottXApp\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\xiaoxi\MSA2017\phaseTwo\MSAPhaseTwo\ScottXApp\ScottXApp\ScottXApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\xiaoxi\MSA2017\phaseTwo\MSAPhaseTwo\ScottXApp\ScottXApp\ScottXApp\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\xiaoxi\MSA2017\phaseTwo\MSAPhaseTwo\ScottXApp\ScottXApp\ScottXApp\obj\Debug\ScottXApp.csprojResolveAssemblyReference.cache
+D:\xiaoxi\MSA2017\phaseTwo\MSAPhaseTwo\ScottXApp\ScottXApp\ScottXApp\obj\Debug\ScottXApp.MainPage.xaml.g.cs
+D:\xiaoxi\MSA2017\phaseTwo\MSAPhaseTwo\ScottXApp\ScottXApp\ScottXApp\obj\Debug\ScottXApp.App.xaml.g.cs
+D:\xiaoxi\MSA2017\phaseTwo\MSAPhaseTwo\ScottXApp\ScottXApp\ScottXApp\obj\Debug\ScottXApp.Page1.xaml.g.cs
+D:\xiaoxi\MSA2017\phaseTwo\MSAPhaseTwo\ScottXApp\ScottXApp\ScottXApp\obj\Debug\ScottXApp.dll
+D:\xiaoxi\MSA2017\phaseTwo\MSAPhaseTwo\ScottXApp\ScottXApp\ScottXApp\obj\Debug\ScottXApp.pdb

@@ -13,7 +13,9 @@ namespace ScottXApp
         {
             InitializeComponent();
 
-            MainPage = new ScottXApp.MainPage();
+            //            MainPage = new ScottXApp.MainPage();
+
+            MainPage = new ScottXApp.Page1();
         }
 
         protected override void OnStart()
